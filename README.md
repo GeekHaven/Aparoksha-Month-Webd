@@ -4,7 +4,7 @@
 
 **Task Description**: Make username.json (where username is your GitHub username) and then fill the information as given below and please maintain the following format EXACTLY :
 
-`
+```
  {
 
        "name" : "Jai-web",
@@ -14,7 +14,7 @@
        "backend repository link" : "https://github.com/repo-name",
        "live link of the frontend repo": "xxx.github.io/repo-name"
     }
-`
+```
 
 where name is your name,
       username is your GitHub username,
