@@ -1,8 +1,8 @@
 # Aparoksha-Month-Webd
 
-## Task: Make <username>.json file 📣 
+## Task: Make `<username>.json` file 📣 
 
-**Task Description**: Make <username>.json (where <username> is your GitHub username) and then fill the information as given below and please maintain the following format :
+**Task Description**: Make `<username>.json` (where `<username>` is your GitHub username) and then fill the information as given below and please maintain the following format :
 
 ```
  {
@@ -16,13 +16,13 @@
     }
 ```
 
-where name is your name,
-      username is your GitHub username,
-      roll number is your official IIITA roll number,
-      frontend repository link is the link of repository of frontend task,
-      backend repository link is the link of repository of backend task,
-      live link of the frontend repo is the live link of the frontend repository.
+where `name` is your name,
+      `username` is your GitHub username,
+      `roll number` is your official IIITA roll number,
+      `frontend repository` link is the link of repository of frontend task,
+      `backend repository` link is the link of repository of backend task,
+      `live link of the frontend repo` is the live link of the frontend repository.
       
-For example, see abhiandthetruth.json(where abhiandthetruth is GitHub username).
+For example, see `abhiandthetruth.json`(where abhiandthetruth is GitHub username).
 
 # Jai-WebD
