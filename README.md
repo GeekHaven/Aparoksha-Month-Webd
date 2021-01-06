@@ -1,8 +1,8 @@
 # Aparoksha-Month-Webd
 
-## Task: Make `<username>.json` file 📣 
+## Make `<username>.json` file 📣 
 
-**Task Description**: Make `<username>.json` (where `<username>` is your GitHub username) and then fill the information as given below and please maintain the following format :
+**Make `<username>.json` (where `<username>` is your GitHub username) and then fill the information as given below and please maintain the following format :
 
 ```
  {
