@@ -38,4 +38,10 @@ where `name` is your name,
       
 For example, see `abhiandthetruth.json`(where abhiandthetruth is GitHub username).
 
+## How to submit?
+
+1) Create a repo on git and add your html file to it.
+2) Fork this repo and create the `<username>.json`, with the appropriate data.
+3) Then submit the file.
+
 # Jai-WebD
