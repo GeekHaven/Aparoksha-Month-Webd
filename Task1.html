@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+    <title>Form</title>
+</head>
+<body>
+    <header>
+        <a href="/home">Home</a> |
+        <a href="/contact">Contact</a> |
+        <a href="/about">About</a> |
+        <a href="/projects">Projects</a>
+    </header>
+    <h1>Student Registration Form</h1>
+
+    <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname"><br>
+        <br>
+        <label for="dob">DOB:</label><br>
+        <input type="date" id="dob" name="dob"><br>
+        <br>
+        <label for="father">Father's name:</label><br>
+        <input type="text" id="father" name="father"><br>
+        <br>
+        <label for="doc">Document:</label><br>
+        <input type="radio" id="adhaar" name="doc" value="adhaar">
+        <label for="adhaar">Adhaar</label><br>
+        <input type="radio" id="driving" name="doc" value="driving">
+        <label for="driving">Driving License</label><br>
+        <input type="radio" id="other" name="doc" value="other">
+        <label for="other">Other</label><br>
+        <br>
+        <label for="gender">Gender:</label><br>
+        <select name="gender" id="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+        <br><br>
+        <label for="desc">Description:</label><br>
+        <textarea rows = "5" cols = "60" name = "desc">
+        </textarea><br>
+        <br>
+        <input type="checkbox" id="confirm" name="confirm">
+        <label for="confirm">Confirm</label><br>
+        <input type="submit" value="Submit"><br>
+        <br><br>
+        <footer>
+            Made By Geekhaven
+            <i class="fa fa-address-book" aria-hidden="true"></i>
+            <i class="fa fa-envelope" aria-hidden="true"></i>
+            <i class="fa fa-id-card" aria-hidden="true"></i>
+            <i class="fa fa-info" aria-hidden="true"></i>
+        </footer>
+    </form>
+</body>
+</html> 
