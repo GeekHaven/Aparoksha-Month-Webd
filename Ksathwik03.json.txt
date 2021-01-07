@@ -1,0 +1,9 @@
+{
+  "name" : "Kuppam Sathwik",
+  "username" : "Ksathwik03",
+  "roll number" : "IIT2020241",
+  "task 1":{
+          "repo link" : "https://github.com/Ksathwik03/task1"
+}
+}
+  
