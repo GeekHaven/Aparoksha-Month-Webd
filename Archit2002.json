@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" >
+<title>Task1 jai webd!</title>
+</head>	
+<body>
+<a href="www.google.com">Home</a>|<a href="www.google.com">Contacts</a>|<a href="www.google.com">About</a>|<a href="www.google.com">Projects</a>
+	<br><br><br>
+	<h1>Student Registration Form</h1>
+		<form>
+			<lable for="fname">First name:</lable><br>
+			<input type="text" id="fname" name="fname"><br>
+			
+			<lable for="lname">Last name:</lable><br>
+			<input type="text" id="lname" name="lname">
+			<br><br>
+			<lable for="dob">DOB</lable><br>
+			<input type="date" id="dob" name="dob">
+			<br><br><br>
+			<lable for="fathername">Father's name:</lable><br>
+			<input type="text" id="fathername" name="fathername"><br><br>
+			Document:<br>
+			<input type="radio" id="adhaar" name="Document" value="Adhaar">
+			<label for="adhaar" >Adhaar card</label><br>
+			<input type="radio" id="dl" name="Document" value="Driving Licence">
+			<label for="dl" >Driving Licence</label><br>
+			<input type="radio" id="O" name="Document" value="Other">
+			<label for="O" >Other</label><br><br><br>
+			<label for="gen" >Gender: </label>
+			<select name="gender" id="gen">
+			<option value="male">Male </option><br>
+			<option value="female">Female </option><br>
+
+			<option value="other">Other </option></select><br><br><br>
+<label for="Description">Description:</label><br>
+<textarea id="Description" name="Description" rows="4" cols="50"></textarea><br><br><br>
+<input type="checkbox" id="confirm" name="confirm">
+<label for="confirm">Confirm</label>
+
+
+
+
+			<input type="submit" value="SUBMIT"></form><br><br><br><br><br><br><br>Made by Geekheaven <i class="fa fa-address-book" aria-hidden="true"></i> <i class="fa fa-envelope" aria-hidden="true"></i> 
+			<i class="fa fa-facebook-official" aria-hidden="true" ></i> <i class="fa fa-instagram" aria-hidden="true"></i>
+		
+	</body>
+	</html>
