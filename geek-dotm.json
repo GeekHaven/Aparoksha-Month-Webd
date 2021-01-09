@@ -1,9 +1,26 @@
-{
-   "name" : "MADDURI NIKHIL",
-   "username" : "geek-dotm",
-   "roll number" : "IEC2020074",
-   "task 1":{
-      "repo link" : "https://github.com/geek-dotm/webD-Task-1"
-   }
-   
-}
+
+ {
+
+       "name" : "MADDURI NIKHIL",
+       "username" : "geek-dotm",
+       "roll number" : "IEC2020074",
+       "task 1":{
+          "repo link" : "https://github.com/geek-dotm/webD-Task-1"
+       },
+       "task 2":{
+          "repo link" : "https://github.com/repo-name"
+       },
+       "task 3":{
+          "repo link" : "https://codepen.io/geek-dotm/pen/OJRwoBR"
+       },
+       "task 4":{
+          "repo link" : "https://github.com/repo-name"
+       },
+       "task 5":{
+          "repo link" : "https://github.com/repo-name"
+       },
+       "task 6":{
+          "repo link" : "https://github.com/repo-name"
+       }
+    }
+
