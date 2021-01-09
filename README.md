@@ -6,7 +6,6 @@
 
 ```
  {
-
        "name" : "Jai-web",
        "username" : "github-username",
        "roll number" : "IIT2020xxx",
@@ -35,7 +34,7 @@ where `name` is your name,
       `username` is your GitHub username,
       `roll number` is your official IIITA roll number,
       `repo link` is the link of repository
-      
+
 For example, see `abhiandthetruth.json`(where abhiandthetruth is GitHub username).
 
 ## How to submit?
