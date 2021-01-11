@@ -8,5 +8,8 @@
   "task 2":{
            link : "https://codepen.io/ksathwik03/pen/oNzMyNN"
 }
+  "task 3":{
+          link : "https://codepen.io/ksathwik03/pen/xxEapOY"
+}
 }
   
