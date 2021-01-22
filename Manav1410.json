@@ -5,15 +5,19 @@
     "roll number" : "IEC2020065",
     "task 1":{
        "repo link" : "https://github.com/Manav1410/WebD_Task-1.git"
-    }
+    },
+    "task 2":{
+       "repo link" : "https://github.com/Manav1410/Profle-v1.0.git",
+        "Web link" : "https://manav1410.github.io/Profle-v1.0/"
+    },    
     "task 3":{
        "code-pen link" : "https://codepen.io/Manav_agarwal/pen/KKgBrbV"
-    }
+    },
     "task 4":{
        "code-pen link" : "https://codepen.io/pen/?template=gOwdPEP"
-    }
+    },
     "task 5":{
-       "repo link" : "https://github.com/Manav1410/Task-5_WebD"
+       "repo link" : "https://github.com/Manav1410/Task-5_WebD",
        "drive link" : "https://drive.google.com/file/d/1yLxyu2XF0bAb_hOj-LZQ9dYMyralRcvB/view?usp=sharing"
     }
 }
