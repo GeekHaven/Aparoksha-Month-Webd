@@ -6,6 +6,10 @@
        "task 1":{
           "repo link" : "https://github.com/ABHAY0PARIHAR/WebD-Task1.git"
        }
-       "task 3" :{
+       "task 2":{
+          "figma link" : "https://www.figma.com/file/TlHaPcUFciX7GMNsoNin9D/SpiralForge?node-id=0%3A1"
+       }
+       "task 3":{
           "codepen link" : "https://codepen.io/SpiralForge/pen/oNzMWMY"
+       } 
 }
