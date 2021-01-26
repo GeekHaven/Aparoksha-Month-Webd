@@ -6,6 +6,10 @@
        "task 1":{
           "repo link" : "https://github.com/parth1007/webdTask1.git"
        },
+       "task 2":{
+          "repo link" : "https://github.com/parth1007/task--2.git"
+          "site link" : "https://parth1007.github.io/task--2/"
+       },
        "task 3":{
           "repo link" : "https://codepen.io/parth1007/pen/VwKBGeg"
        },
