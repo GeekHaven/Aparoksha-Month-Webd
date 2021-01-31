@@ -6,6 +6,10 @@
        "task 1":{
           "repo link" : "https://github.com/SeriousHY/Task-1.git"
        },
+	"task 2":{
+          "repo link" : "https://github.com/SeriousHY/portfolio.git"
+		"website link" : "https://serioushy.github.io/portfolio/"
+       },
  	"task 3":{
           "snowman link" : "https://codepen.io/serioushy/pen/ZEpjjop"
        },
