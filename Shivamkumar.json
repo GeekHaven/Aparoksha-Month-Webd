@@ -7,8 +7,22 @@
        "repo link" : "https://github.com/shivamhaz444/web_develepoment_task1"
 
    }
-    "task 3":{
+   "task 2":{
+       "repo link" : "https://github.com/shivamhaz444/myportfolio_website"
+       "website link" :"https://shivamhaz444.github.io/myportfolio_website/"
+
+   }
+   "task 3":{
        "repo link" : "https://codepen.io/shivamhaz444/pen/GRjBPrK"
+
+   }
+   "task 4":{
+       "repo link" : "https://codepen.io/shivamhaz444/pen/bGwxMdb"
+
+   }
+   "task 5":{
+       "repo link" : "https://github.com/shivamhaz444/task5"
+       "video link" :"https://drive.google.com/file/d/1gIwr56stIZF99QOmR26BxJDYtyBJan--/view?usp=sharing"        
 
    }
 }

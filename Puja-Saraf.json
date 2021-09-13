@@ -6,8 +6,19 @@
     "task 1":{
        "repo link" : "https://github.com/Puja-Saraf/WebD-Task1"
     },
+    "task 2":{
+        "repo link" : "https://github.com/Puja-Saraf/WebD-Task-2",
+        "webpage link" : "https://puja-saraf.github.io/WebD-Task-2/"
+    },
     "task 3":{
         "codepen link" : "https://codepen.io/puja_saraf/pen/yLaqKrV"
+    },
+    "task 4":{
+        "codepen link" : "https://codepen.io/puja_saraf/pen/abmajPW"
+    },
+    "task 5":{
+        "repo link" : "https://github.com/Puja-Saraf/Webd-Task-5",
+        "drive link" : "https://drive.google.com/file/d/1E8YVEZCryIUxSgyORp_6_Fxlg5mfnEGV/view?usp=sharing"
     }
-    
+
 }

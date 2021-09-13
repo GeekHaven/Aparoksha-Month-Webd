@@ -6,7 +6,15 @@
        "task 1":{
           "repo link" : "https://github.com/SeriousHY/Task-1.git"
        },
+	"task 2":{
+          "repo link" : "https://github.com/SeriousHY/portfolio.git"
+		"website link" : "https://serioushy.github.io/portfolio/"
+       },
  	"task 3":{
           "snowman link" : "https://codepen.io/serioushy/pen/ZEpjjop"
+       },
+	"task 5":{
+          "video link" : "https://drive.google.com/file/d/1lRgvf9nNEAXq04UW2zigo9hysgcxk0tX/view?usp=sharing"
+	"repo link" : "https://github.com/SeriousHY/task5.git"	
        }
     }
