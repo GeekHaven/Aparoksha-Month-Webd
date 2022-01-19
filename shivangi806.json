@@ -1,0 +1,46 @@
+{
+    "name" : "Jai-web",
+    "username" : "github-shivangi806",
+    "roll number" : "IIT2020072",
+    "task 1":{
+       "repo link" : "https://github.com/repo-shivangi806"
+    }}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBD Task 1</title>
+</head>
+<body>
+    <h1> <center><i><b>Shivangi Chandra</b>
+    </i></center>
+    <center><img src="https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png" alt="image" width="200"></center>
+
+        
+    </h1> <hr><hr><h3 style="text-align:right">"Suswagatam" -- "Welcome"&#128515; </h3><hr><hr>
+    
+   <h2> About--
+       </h2> 
+       <h5>I m a very enthusiastic type of girl with never giving up attitude....always try to learn something new....
+        Having a great belief on my work as well on my leadership....mostly like to do the things which can just embrace one's heart...</h5>
+     <div style="text-align:right"> <h2>Education</h2> <h5><li> I did my schooling from "St. Xavier's Public School".</li><li>I am currently a first year student of B-Tech "IT" at "IIIT Allahabad".</li></h5></div> 
+      <h2> Technical Skills</h2><h5>Languages :</h5>
+      <tr><td><h4>HTML &emsp;⭐⭐⭐⭐⭐ </h4></td><td><h4>CSS    &emsp;       ⭐⭐⭐ ✰ ✰</h4></td></td><td><h4>JAVA   &emsp;       ⭐ ✰ ✰ ✰ ✰</h4></td>
+        <hr><h2>Contact Me:</h2>
+        <tr>
+            <td><h6>Email:<a href="shivangichandra806@gmail.com">shivangichandra806@gmail.com</a></h6></td>
+            <td><h6>LinkedIn:<a href="https://www.linkedin.com/in/shivangi-chandra-02a128229/">https://www.linkedin.com/in/shivangi-chandra-02a128229/ </a></h6></td>
+        <td><h6>My GitHub URL:<a href="https://github.com/shivangi806/WebD-.git">shivangi806</a>  </h6>   </td>
+        </tr>
+        <hr><h3>Feedback :</h3><h4>Your Name :  </h4><textarea name="Enter Your Name" id="" cols="30" rows="1"></textarea>
+        <h4>Your Email : </h4><textarea name="Enter Your Email" id="" cols="50" rows="1"></textarea>
+        <h4>Your Views : </h4><textarea name="Enter Your Views" id="" cols="30" rows="10"></textarea>
+        <center><button class="btn submit">Submit</button></center>
+
+    </body>
+</html>
